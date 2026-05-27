@@ -1,5 +1,5 @@
 Hello, my name is Oleg 👋
-I am a full time Senior Software Engineer @ [Adjust](https://www.adjust.com/), located in Berlin.
+I am a full time Senior Software Engineer @ [Fin/Intercom](https://fin.ai/), located in Berlin.
 
 The things I particularly enjoy:
 * developing services with Ruby, Python and Javascript
